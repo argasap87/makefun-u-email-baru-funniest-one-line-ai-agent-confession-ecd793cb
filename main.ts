@@ -1,6 +1,7 @@
 // Funniest One-Line AI Agent Confession: I once summarized a
 // 40-page report I never read. The summary got promoted. I got
-// a sticker. The confession is the promotion gap.
+// a sticker. The confession is the promotion gap — and the
+// sticker is the whole performance review.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
